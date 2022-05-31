@@ -1,0 +1,35 @@
+2022-05-30 14:29:53,196  INFO [main] Hooks:20 - Test application  has started
+2022-05-30 14:30:00,817  INFO [main] Captions_Step:20 - Test started for checking the caption enabling feature of accessibility option
+2022-05-30 14:30:12,521  INFO [main] Captions_Step:75 - Test ends
+2022-05-30 14:30:12,521  INFO [main] Hooks:28 - All tests are executed
+2022-05-30 14:30:13,142  INFO [main] Hooks:20 - Test application  has started
+2022-05-30 14:30:19,449  INFO [main] DefaultLayoutAnimation_Step:21 - Test started to check the Add feature in animation layout feature
+2022-05-30 14:30:23,670  INFO [main] DefaultLayoutAnimation_Step:58 - Test ends
+2022-05-30 14:30:23,671  INFO [main] Hooks:28 - All tests are executed
+2022-05-30 14:30:24,063  INFO [main] Hooks:20 - Test application  has started
+2022-05-30 14:30:30,091  INFO [main] DisplayOption_Step:23 - Test started to check the display title feature in app option
+2022-05-30 14:30:48,578  INFO [main] DisplayOption_Step:66 - Test ends
+2022-05-30 14:30:48,579  INFO [main] Hooks:28 - All tests are executed
+2022-05-30 14:30:48,975  INFO [main] Hooks:20 - Test application  has started
+2022-05-30 14:30:55,080  INFO [main] DeviceAdmin_Step:22 - Test started to check device admin features in app option
+2022-05-30 14:31:08,363  INFO [main] DeviceAdmin_Step:68 - Test ends
+2022-05-30 14:31:08,366  INFO [main] Hooks:28 - All tests are executed
+2022-05-30 14:31:08,799  INFO [main] Hooks:20 - Test application  has started
+2022-05-30 14:31:14,879  INFO [main] HideAndShowAnimation_Step:23 - Test started to check hide  animation of animation option
+2022-05-30 14:31:23,247  INFO [main] HideAndShowAnimation_Step:49 - Test ends
+2022-05-30 14:31:30,358  INFO [main] Hooks:28 - All tests are executed
+2022-05-30 14:31:30,721  INFO [main] Hooks:20 - Test application  has started
+2022-05-30 14:31:36,934  INFO [main] HideAndShowAnimation_Step:23 - Test started to check hide  animation of animation option
+2022-05-30 14:31:38,844  INFO [main] HideAndShowAnimation_Step:65 - Test started to check show  animation of animation option
+2022-05-30 14:31:57,062  INFO [main] HideAndShowAnimation_Step:84 - Test ends
+2022-05-30 14:31:57,062  INFO [main] Hooks:28 - All tests are executed
+2022-05-30 14:31:57,622 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-05-30 14:31:57,627 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-05-30 14:31:57,630 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-05-30 14:31:57,631 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-05-30 14:31:57,632 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/snehasengupta/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-05-30 14:31:57,825 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-05-30 14:31:57,826 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-05-30 14:31:57,827 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-05-30 14:31:57,827 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-05-30 14:31:57,827 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/snehasengupta/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
