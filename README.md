@@ -1,5 +1,5 @@
 # Assignmnt
-
+## git link:
 # Exit test Assignment
 
 ## Test Scenarios and test cases
@@ -28,3 +28,4 @@
 ##### 4---> To visualize the script Android studio , Appium server need to be there in the sysetem and also appium server needed to start manually
 ##### 5--> To Visualize the statistic of the script please check the 'App.html' file.
 ##### 6--> Only failed cases will be captured as a screenshot 
+
