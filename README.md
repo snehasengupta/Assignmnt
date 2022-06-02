@@ -1,5 +1,5 @@
 # Assignmnt
-## git link:
+## git link: https://github.com/snehasengupta/Assignmnt.git
 # Exit test Assignment
 
 ## Test Scenarios and test cases
