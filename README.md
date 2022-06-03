@@ -28,4 +28,5 @@
 ##### 4---> To visualize the script Android studio , Appium server need to be there in the sysetem and also appium server needed to start manually
 ##### 5--> To Visualize the statistic of the script please check the 'App.html' file.
 ##### 6--> Only failed cases will be captured as a screenshot 
+##### 7--> The process of setting and building project in jenkins is in the .docx file named as "Jenkins Process.docx" 
 
